@@ -11,4 +11,5 @@ Editing the *README* file.
 - [x] Create Repository
 - [ ] Learn MD
 
+![GitHub IMG](https://avatars0.githubusercontent.com/u/9919?s=280&v=4)
 [Access my github](https://github.com/gpe0)
