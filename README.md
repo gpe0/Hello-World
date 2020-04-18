@@ -1,5 +1,7 @@
 # Hello, World!
-**First Repository!** Editing the *README* file.
+## **First Repository!**
+---
+Editing the *README* file.
 ---
 * Test1
 * Test2
